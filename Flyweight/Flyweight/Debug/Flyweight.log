@@ -1,0 +1,26 @@
+﻿Build started 2016/3/24 0:51:41.
+     1>Project "D:\Gits\designMode\Flyweight\Flyweight\Flyweight.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\Gits\designMode\Flyweight\Debug\".
+         Creating directory "Debug\Flyweight.tlog\".
+       InitializeBuildStatus:
+         Creating "Debug\Flyweight.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /I"F:\公司\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Flyweight.cpp FlyweightFactory.cpp main.cpp
+         main.cpp
+         FlyweightFactory.cpp
+         Flyweight.cpp
+         Generating Code...
+       Link:
+         E:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Gits\designMode\Flyweight\Debug\Flyweight.exe" /INCREMENTAL /NOLOGO /LIBPATH:"F:\公司\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Gits\designMode\Flyweight\Debug\Flyweight.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Gits\designMode\Flyweight\Debug\Flyweight.lib" /MACHINE:X86 Debug\Flyweight.obj
+         Debug\FlyweightFactory.obj
+         Debug\main.obj
+         Flyweight.vcxproj -> D:\Gits\designMode\Flyweight\Debug\Flyweight.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Flyweight.tlog\unsuccessfulbuild".
+         Touching "Debug\Flyweight.tlog\Flyweight.lastbuildstate".
+     1>Done Building Project "D:\Gits\designMode\Flyweight\Flyweight\Flyweight.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.41
